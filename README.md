@@ -95,6 +95,7 @@ Além da navegação entre páginas, a aplicação implementa autenticação sim
 | --------------------------------------------- | ------ |
 | [usuario@email.com](mailto:usuario@email.com) | 123456 |
 | [maria@email.com](mailto:maria@email.com)     | 123456 |
+| [roman@email.com](mailto:roman@email.com)     | 123456 |
 
 ---
 
