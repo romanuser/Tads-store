@@ -162,6 +162,9 @@ src/
 │         PaginaProduto.jsx
 │   └── data/produtos.js
 └── App.jsx
+└── Index.jsx
+└── App.css
+└── Index.css
 ```
 
 ---
