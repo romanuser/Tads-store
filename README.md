@@ -6,7 +6,7 @@ Projeto desenvolvido para a disciplina **Desenvolvimento Front-End II** do curso
 
 ## 📋 Sobre o Projeto
 
-O **Aqui Tem** é uma aplicação web desenvolvida em React que simula um supermercado online moderno.
+O **Aqui Tem** é uma aplicação web desenvolvida em React que simula um supermercado dew itens gerais online moderno.
 
 O projeto foi construído utilizando o conceito de **SPA (Single Page Application)** e consome dados da API pública **DummyJSON** para exibição, busca e detalhamento de produtos.
 
