@@ -99,6 +99,7 @@ Além da navegação entre páginas, a aplicação implementa autenticação sim
 ---
 
 ## 🖥️ Como Executar o Projeto
+ABRA O CMD, COM O COMANDO CD, NAVEGUE ATE A PASTA DO PROJETO, ENTAO: 
 
 ### 1. Instalar as dependências
 
