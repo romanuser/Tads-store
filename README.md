@@ -99,7 +99,7 @@ Além da navegação entre páginas, a aplicação implementa autenticação sim
 ---
 
 ## 🖥️ Como Executar o Projeto
-ABRA O CMD, COM O COMANDO CD, NAVEGUE ATE A PASTA DO PROJETO, ENTAO: 
+ABRA O CMD, COM O COMANDO CD, NAVEGUE ATE A PASTA DO PROJETO tads-store, ENTAO: 
 
 ### 1. Instalar as dependências
 
