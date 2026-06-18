@@ -141,13 +141,29 @@ npm run preview
 ```text
 src/
 ├── components/
-│   ├── layout/
-│   ├── produto/
-│   └── ui/
-├── contexts/
-├── hooks/
-├── pages/
+│   ├── layout/Cabecalho.jsx
+│              Layout.jsx
+│              Rodape.jsx
+│              Rotaprotegida.jsx
+│   ├── produto/Buscador.jsx
+│              ProdutoCard.jsx
+│              Vitrine.jsx
+│   └── ui/Botao.jsx
+│          Carregando.jsx
+│          Erro.jsx
+│          Selo.jsx
+├── contexts/AuthContext.jsx
+├── hooks/useProdutos.js
+├── pages/PaginaInicial.jsx
+│         PaginaLogin.jsx
+│         PaginaMinhaConta.jsx
+│         PaginaNaoEncontrada.jsx
+│         PaginaProduto.jsx
+│   └── data/produtos.js
 └── App.jsx
+└── Index.jsx
+└── App.css
+└── Index.css
 ```
 
 ---
